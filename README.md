@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Tomcat-blue?style=for-the-badge&logo=Apache Tomcat&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Tomcat-blue?style=for-the-badge&logo=Apache Tomcat&logoColor=black"> 
 
 <img src="https://img.shields.io/badge/-Spring-green?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=Spring Boot&logoColor=black"> <img src="https://img.shields.io/badge/-Spring%20Security-brightgreen?style=for-the-badge&logo=Spring&logoColor=black">
 
